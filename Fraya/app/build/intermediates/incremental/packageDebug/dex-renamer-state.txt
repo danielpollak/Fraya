@@ -1,0 +1,7 @@
+#Sun Oct 09 00:46:15 EDT 2016
+base.0=/home/dan/Downloads/Fraya-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_434a4bc372591a3612b099b700f68524a41fff3d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/dan/Downloads/Fraya-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_345de0a5875a3702bbf8798e1b07fd543b5238d0/classes.dex
+base.1=/home/dan/Downloads/Fraya-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_345de0a5875a3702bbf8798e1b07fd543b5238d0
+file.0=/home/dan/Downloads/Fraya-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_434a4bc372591a3612b099b700f68524a41fff3d/classes.dex

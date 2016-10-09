@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Fraya</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- Morse activity Strings -->
+    <string name="Convertable_text_here">Type your convertable text here</string>
+    <string name="Focault">Focault</string>
+    <string name="Morse_appears">Morse appears here</string>
+    <string name="Large">Morse appears here</string>
+
+    <!-- Smash (yet to be made) Strings -->
+    <string name="title_activity_smash">Smash</string>
+
+    <!-- Game of life strings -->
+    <string name="O">O</string>
+    <string name="X">X</string>
+    <string name="iterate">Iterate\nClick\nClickityClick\nNNNNNClick\nClick Click</string>
+
+    <!-- Hekko Strings -->
+
+    <string name="title_activity_hekko">Hekko</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_morse">Morse</string>
+    <string name="title_activity_game_of_life">GameOfLife</string>
+    <string name="title_activity_insta_button">InstaButton</string>
+    <string name="button">Button</string>
+    <string name="To">To</string>
+
+</resources>

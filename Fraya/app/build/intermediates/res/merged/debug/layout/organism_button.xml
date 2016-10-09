@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<Button xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:id="@+id/organism_button"
+	    android:layout_width="50dp"
+	    android:layout_height="50dp"
+	    android:src="@drawable/organism_umbrella"
+	    android:text="@string/O"
+	    android:textColor="#000FFF" />
+	<!-- DELETE IF the code works wo it -->
+

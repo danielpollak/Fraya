@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/dan/Downloads/Fraya-master/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/dan/Downloads/Fraya-master/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/dan/Downloads/Fraya-master/app/build/intermediates/res/merged/debug/menu/smash.xml",
+        "source": "/home/dan/Downloads/Fraya-master/app/src/main/res/menu/smash.xml"
+    },
+    {
+        "merged": "/home/dan/Downloads/Fraya-master/app/build/intermediates/res/merged/debug/menu/game_of_life.xml",
+        "source": "/home/dan/Downloads/Fraya-master/app/src/main/res/menu/game_of_life.xml"
+    },
+    {
+        "merged": "/home/dan/Downloads/Fraya-master/app/build/intermediates/res/merged/debug/menu/morse.xml",
+        "source": "/home/dan/Downloads/Fraya-master/app/src/main/res/menu/morse.xml"
+    },
+    {
+        "merged": "/home/dan/Downloads/Fraya-master/app/build/intermediates/res/merged/debug/menu/hekko.xml",
+        "source": "/home/dan/Downloads/Fraya-master/app/src/main/res/menu/hekko.xml"
+    },
+    {
+        "merged": "/home/dan/Downloads/Fraya-master/app/build/intermediates/res/merged/debug/menu/insta_button.xml",
+        "source": "/home/dan/Downloads/Fraya-master/app/src/main/res/menu/insta_button.xml"
+    }
+]

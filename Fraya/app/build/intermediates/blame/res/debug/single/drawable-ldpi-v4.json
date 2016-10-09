@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/dan/Downloads/Fraya-master/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/organism_umbrella.xml",
+        "source": "/home/dan/Downloads/Fraya-master/app/src/main/res/drawable-ldpi/organism_umbrella.xml"
+    },
+    {
+        "merged": "/home/dan/Downloads/Fraya-master/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/organism_pressed.xml",
+        "source": "/home/dan/Downloads/Fraya-master/app/src/main/res/drawable-ldpi/organism_pressed.xml"
+    },
+    {
+        "merged": "/home/dan/Downloads/Fraya-master/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/organism_focused.xml",
+        "source": "/home/dan/Downloads/Fraya-master/app/src/main/res/drawable-ldpi/organism_focused.xml"
+    },
+    {
+        "merged": "/home/dan/Downloads/Fraya-master/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/organism_default.xml",
+        "source": "/home/dan/Downloads/Fraya-master/app/src/main/res/drawable-ldpi/organism_default.xml"
+    }
+]

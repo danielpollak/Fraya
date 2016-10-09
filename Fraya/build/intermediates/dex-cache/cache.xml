@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/dan/Downloads/Fraya-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1e462e24eb145b4d3a168604801f2e1787e0e1ba">
+        <dex dex="/home/dan/Downloads/Fraya-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_434a4bc372591a3612b099b700f68524a41fff3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dan/Downloads/Fraya-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/dan/Downloads/Fraya-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-21.0.3_45bf6b580aa92fbfe8b620c24c5745ecec054cf5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dan/Downloads/Fraya-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/dan/Downloads/Fraya-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-21.0.3_5e96ea8cd240c500719fcf79f1226e99b63af87e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/dan/Downloads/Fraya-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_c83cbbbc600a955c2cad88063198acbb98087a50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dan/Downloads/Fraya-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1e6931d05f77b5f374d64ede09de2f61aaf9f6a2">
+        <dex dex="/home/dan/Downloads/Fraya-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_345de0a5875a3702bbf8798e1b07fd543b5238d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dan/Downloads/Fraya-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/dan/Downloads/Fraya-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_1eb3899b2a6d8721dc32cbb84fc64f8e443da82e/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="23"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="65470350997732"
+    token="2460763427799339656"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="374" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="32" />
+    <task
+        name="verifier"
+        duration="12" />
+
+    <artifact
+        location="/home/dan/Downloads/Fraya-master/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="65311095929042"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/dan/Downloads/Fraya-master/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="65470350997732"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/dan/Downloads/Fraya-master/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

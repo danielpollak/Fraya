@@ -1,0 +1,93 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:id="@+id/activity_game_of_life"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.fraya.GameOfLife" >
+
+    <Button
+        android:id="@+id/iterate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:text="@string/iterate"
+        android:paddingLeft="5dp"
+        android:paddingTop="5dp"
+        android:paddingRight="5dp"
+        android:onClick="addIterateListener"
+        />     <!-- so this is for now a tester method -->
+    <!---->
+    <!-- android:onClick="IterateListener"-->
+
+    <Button
+        android:id="@+id/downWidth"
+        android:hint="down width"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="right|bottom"
+        android:onClick="decreaseColonyWidth"
+        android:layout_below="@+id/upWidth"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+    <Button
+        android:id="@+id/upWidth"
+        android:hint="up width"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="right|bottom"
+        android:onClick="increaseColonyWidth"
+        android:layout_below="@+id/downHeight"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+    <Button
+        android:id="@+id/upHeight"
+        android:hint="up height"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="right|bottom"
+        android:onClick="increaseColonyHeight"
+        android:layout_below="@+id/decreaseOrganismSize"
+        android:layout_alignRight="@+id/iterate"
+        android:layout_alignEnd="@+id/iterate" />
+
+    <Button
+        android:id="@+id/downHeight"
+        android:hint="down height"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="right|bottom"
+        android:onClick="decreaseColonyHeight"
+        android:layout_below="@+id/upHeight"
+        android:layout_alignRight="@+id/iterate"
+        android:layout_alignEnd="@+id/iterate" />
+
+    <Button
+        android:id="@+id/increaseOrganismSize"
+        android:layout_width="wrap_content"
+        android:text="up organism"
+        android:layout_height="wrap_content"
+        android:gravity="right|bottom"
+        android:onClick="increaseOrganismSize"
+        android:layout_marginTop="65dp"
+        android:layout_below="@+id/iterate"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+    <Button
+        android:id="@+id/decreaseOrganismSize"
+        android:text="down organism"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="right|bottom"
+        android:onClick="decreaseOrganismSize"
+        android:layout_below="@+id/increaseOrganismSize"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+</RelativeLayout>
